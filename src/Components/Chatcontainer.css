@@ -7,7 +7,7 @@
 .chat-container-header{
     display: flex;
     align-items: center;
-    height: 50px;
+    height: 51px;
     padding: 5px 0px 5px 10px;
     background-color: #ededed;
     justify-content: space-between;
